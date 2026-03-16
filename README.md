@@ -14,6 +14,7 @@ Lab exercises and project for Data Science course (Jan 2026).
 | **2026-02-23** | 06  | [Task 1](./2026-02-23_Lab-06/Task-1.R) • [Task 2](./2026-02-23_Lab-06/Task-2.R) • [Task 3](./2026-02-23_Lab-06/Task-3.R) • [Task 4](./2026-02-23_Lab-06/Task-4.R) |
 | **2026-03-01** | 07  | [Task 1](./2026-03-02_Lab-07/Task-1.R)                                                                                                                            |
 | **2026-03-09** | 08  | [Task 1](./2026-03-09_Lab-08/Task-1.R) • [Task 2](./2026-03-09_Lab-08/Task-2.R)                                                                                   |
+| **2026-03-16** | 09  | [Task 1](./2026-03-16_Lab-09/Task-1.R) • [Task 2](./2026-03-16_Lab-09/Task-2.R)                                                                                   |
 
 ## Lab Assignment
 
